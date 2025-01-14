@@ -94,6 +94,9 @@ shiseido.com.hk
 missamara.hk
 conceiveplus.hk
 linkedu.hk
+27.50.48.38:443#HK
+104.129.166.205:443#HK
+154.201.221.88:443#HK
 27.50.48.247:443#HK
 45.156.216.95:443#HK
 104.129.166.187:443#HK
