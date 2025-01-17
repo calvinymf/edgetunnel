@@ -6,7 +6,6 @@ kenshin.hk
 ttdeye.com
 theprp.com
 on.cc
-bonjourlafrance.com
 brainwavzaudio.com
 chipandco.com
 clot.com
@@ -28,7 +27,6 @@ teach-this.com
 team-blacksheep.com
 teasenz.com
 thedarkknot.com
-themainstreetmouse.com
 education.ft.com
 skipthegames.com
 fliphtml5.com
@@ -47,15 +45,12 @@ suunto.com
 gaomon.net
 insidethemagic.net
 legion.lenovo.com
-hotdeals.com
 igvault.com
-flipbuilder.com
 aomeitech.com
 news.cathaypacific.com
 secure3.peninsula.com
 spyera.com
 hiccears.com
-purpleculture.net
 dateandtime.info
 rcmart.com
 disneynews.us
@@ -109,7 +104,6 @@ linkedu.hk
 219.76.13.166:443#HK
 219.76.13.164:443#HK
 43.198.207.3:2087#HK
-8.210.245.231:8443#HK
 13.75.45.129:443#HK
 47.76.85.84:443#HK
 58.176.95.46:443#HK
