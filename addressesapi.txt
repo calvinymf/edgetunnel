@@ -1,5 +1,5 @@
 gameapps.hk
-icook.hk:8443
+icook.hk:8443#HK
 jetour.com.hk
 orientalsunday.hk
 www.price.com.hk
