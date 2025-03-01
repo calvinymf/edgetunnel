@@ -24,3 +24,15 @@
 210.6.2.232:11211#HK
 103.235.18.96:12317#HK
 103.103.245.188:30001#HK
+www.visa.com.hk
+www.price.com.hk
+jetour.com.hk
+orientalsunday.hk
+japan.com
+singapore.com
+malaysia.com
+store.epicgames.com:
+www.coleman.com
+peering.cloudflare.com
+content.cloudflare.com
+bestcf.030101.xyz
